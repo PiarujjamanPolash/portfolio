@@ -77,7 +77,7 @@ const DaskTopHeader = () => (
       <span className="animated-button">
         <span>WhatsApp</span>
       </span>
-      <i className="icon fas fa-whatsapp" />
+      <i className="icon fas fa-chevron-right" />
     </a>
     {/* header sidebar */}
     <div className="header-sidebar">
@@ -115,7 +115,7 @@ const MobileHeader = () => {
         <span className="animated-button">
           <span>WhatsApp</span>
         </span>
-        <i className="icon fas fa-whatsapp" />
+        <i className="icon fas fa-chevron-right" />
       </a>
       {/* header sidebar */}
       <div className="header-sidebar">

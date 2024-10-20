@@ -27,12 +27,12 @@ const Started = () => {
             {/* button */}
             <a href="#section-contacts" className="btn">
               <span className="animated-button">
-                <span>Contact Me</span>
+                <span>WhatsApp Me</span>
               </span>
               <i className="icon fas fa-chevron-right" />
             </a>
             {/* mosue button */}
-            <a href="#" className="btn mouse-btn" style={{ display: "none" }}>
+            <a href="https://wa.me/+8801783357375" className="btn mouse-btn" style={{ display: "none" }}>
               <i className="icon fas fa-chevron-down" />
             </a>
           </div>
