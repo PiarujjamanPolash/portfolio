@@ -73,11 +73,11 @@ const DaskTopHeader = () => (
       <span />
     </a>
     {/* download cv button */}
-    <a href="#" className="btn download-cv-btn">
+    <a href="https://wa.me/+8801783357375" className="btn download-cv-btn">
       <span className="animated-button">
-        <span>Download CV</span>
+        <span>WhatsApp</span>
       </span>
-      <i className="icon fas fa-download" />
+      <i className="icon fas fa-whatsapp" />
     </a>
     {/* header sidebar */}
     <div className="header-sidebar">
@@ -101,8 +101,8 @@ const MobileHeader = () => {
         <a href="#">
           <img className="logo-img" src="images/logo.png" alt="" />
           <span className="logo-lnk">
-            POLASH<br />
-            .Dev
+            polash<br />
+            .dev
           </span>
         </a>
       </div>
@@ -111,11 +111,11 @@ const MobileHeader = () => {
         <span />
       </a>
       {/* download cv button */}
-      <a href="#" className="btn download-cv-btn">
+      <a href="https://wa.me/+8801783357375" className="btn download-cv-btn">
         <span className="animated-button">
-          <span>Download CV</span>
+          <span>WhatsApp</span>
         </span>
-        <i className="icon fas fa-download" />
+        <i className="icon fas fa-whatsapp" />
       </a>
       {/* header sidebar */}
       <div className="header-sidebar">
