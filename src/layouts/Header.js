@@ -75,7 +75,7 @@ const DaskTopHeader = () => (
     {/* download cv button */}
     <a href="https://wa.me/+8801783357375" className="btn download-cv-btn">
       <span className="animated-button">
-        <span>WhatsApp</span>
+        <span>WhatsApp Me</span>
       </span>
       <i className="icon fas fa-chevron-right" />
     </a>
@@ -113,7 +113,7 @@ const MobileHeader = () => {
       {/* download cv button */}
       <a href="https://wa.me/+8801783357375" className="btn download-cv-btn">
         <span className="animated-button">
-          <span>WhatsApp</span>
+          <span>WhatsApp Me</span>
         </span>
         <i className="icon fas fa-chevron-right" />
       </a>
