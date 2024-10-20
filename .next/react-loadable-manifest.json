@@ -1,0 +1,30 @@
+{
+  "index.js -> @/src/components/Education": {
+    "id": 188,
+    "files": [
+      "static/chunks/719.58e1da9e63861cea.js",
+      "static/chunks/188.cfbdf1dcd2e346d1.js"
+    ]
+  },
+  "index.js -> @/src/components/Experience": {
+    "id": 236,
+    "files": [
+      "static/chunks/719.58e1da9e63861cea.js",
+      "static/chunks/236.06a7cdffbba69202.js"
+    ]
+  },
+  "index.js -> @/src/components/Testimonials": {
+    "id": 33,
+    "files": [
+      "static/chunks/719.58e1da9e63861cea.js",
+      "static/chunks/33.0a2604754aee9594.js"
+    ]
+  },
+  "index.js -> @/src/components/Works": {
+    "id": 3771,
+    "files": [
+      "static/chunks/391.c6eeca109a092ca1.js",
+      "static/chunks/588.4b619c80437e561e.js"
+    ]
+  }
+}
