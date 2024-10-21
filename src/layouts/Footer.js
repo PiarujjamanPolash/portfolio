@@ -8,6 +8,12 @@ const Footer = () => {
         <a target="_blank" href="https://www.instagram.com/mepolash">
           <i className="icon fab fa-instagram" />
         </a>
+        <a target="_blank" href="https://www.linkedin.com/in/piarujjamanpolash/">
+          <i className="icon fab fa-linkedin-in" />
+        </a>
+        <a target="_blank" href="https://www.linkedin.com/in/piarujjamanpolash/">
+          <i className="icon fab fa-github" />
+        </a>
       </div>
     </footer>
   );
